@@ -1,0 +1,11 @@
+C:\Users\tweed\source\repos\PigLatinCapstone\PigLatinCapstone\bin\Debug\netcoreapp2.2\PigLatinCapstone.deps.json
+C:\Users\tweed\source\repos\PigLatinCapstone\PigLatinCapstone\bin\Debug\netcoreapp2.2\PigLatinCapstone.runtimeconfig.json
+C:\Users\tweed\source\repos\PigLatinCapstone\PigLatinCapstone\bin\Debug\netcoreapp2.2\PigLatinCapstone.runtimeconfig.dev.json
+C:\Users\tweed\source\repos\PigLatinCapstone\PigLatinCapstone\bin\Debug\netcoreapp2.2\PigLatinCapstone.dll
+C:\Users\tweed\source\repos\PigLatinCapstone\PigLatinCapstone\bin\Debug\netcoreapp2.2\PigLatinCapstone.pdb
+C:\Users\tweed\source\repos\PigLatinCapstone\PigLatinCapstone\obj\Debug\netcoreapp2.2\PigLatinCapstone.csprojAssemblyReference.cache
+C:\Users\tweed\source\repos\PigLatinCapstone\PigLatinCapstone\obj\Debug\netcoreapp2.2\PigLatinCapstone.csproj.CoreCompileInputs.cache
+C:\Users\tweed\source\repos\PigLatinCapstone\PigLatinCapstone\obj\Debug\netcoreapp2.2\PigLatinCapstone.AssemblyInfoInputs.cache
+C:\Users\tweed\source\repos\PigLatinCapstone\PigLatinCapstone\obj\Debug\netcoreapp2.2\PigLatinCapstone.AssemblyInfo.cs
+C:\Users\tweed\source\repos\PigLatinCapstone\PigLatinCapstone\obj\Debug\netcoreapp2.2\PigLatinCapstone.dll
+C:\Users\tweed\source\repos\PigLatinCapstone\PigLatinCapstone\obj\Debug\netcoreapp2.2\PigLatinCapstone.pdb
